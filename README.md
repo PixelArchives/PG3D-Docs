@@ -6,12 +6,12 @@ Pack of info i know about PG3D modding.
 |Version|State|Link|Author(s)|
 |-------|-----|----|---------|
 |4.7.1|Unknown|[Click](https://github.com/overmet15/PG3D-4.7.1)|overmet15|
-|10.3.1|Work In Progress|Unavailable|overmet15|
+|10.3.1|Work In Progress|[Click](https://github.com/overmet15/PG3D-10.3.1)|overmet15|
 
 #### Other Projects
 |Name|State|Link|Author(s)|
 |----|-----|----|---------|
-|Pixel Server|Not Started|Unavailable|overmet15|
+|Pixel Server|Work In Progress|Unavailable|overmet15|
 |JBroLauncher Fix|Unfinished/Not Working|[Click](https://github.com/overmet15/PG3D-JbroLauncher)|[JBro](https://github.com/jbro129), overmet15|
 
 
