@@ -1,0 +1,1 @@
+All custom shaders in SHADOWGUN sample level are intellectual property of MADFINGER Games, a.s. and they are free to use.
