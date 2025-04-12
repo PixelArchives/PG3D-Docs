@@ -5,14 +5,14 @@ Pack of info i know about PG3D modding.
 
 |Version|State|Link|Author(s)|
 |-------|-----|----|---------|
-|4.7.1|Unknown|[Click](https://github.com/overmet15/PG3D-4.7.1)|overmet15|
-|10.3.1|Work In Progress|[Click](https://github.com/overmet15/PG3D-10.3.1)|overmet15|
+|2.5|Finished|[Click](https://github.com/PixelArchives/PG3D-2.5)|overmet15|
+|2.7|Finished|[Click](https://github.com/PixelArchives/PG3D-2.7)|overmet15|
 
 #### Other Projects
 |Name|State|Link|Author(s)|
 |----|-----|----|---------|
 |Pixel Server|Work In Progress|[Click](https://github.com/PixelArchives/PixelServer)|overmet15|
-|JBroLauncher Fix|Unfinished/Not Working|[Click](https://github.com/overmet15/PG3D-JbroLauncher)|[JBro](https://github.com/jbro129), overmet15|
+|JBroLauncher Fix|Wont Finish/Not Working|[Click](https://github.com/PixelArchives/PG3D-JbroLauncher)|[JBro](https://github.com/jbro129), overmet15|
 
 
 ## Awesome Resources
