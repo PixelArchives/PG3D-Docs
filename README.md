@@ -1,7 +1,7 @@
 # Pixel Gun 3D Docs
 Pack of info i know about PG3D modding.
 
-#### Aviable Sources
+#### Available Sources
 
 |Version|State|Link|Author(s)|
 |-------|-----|----|---------|
