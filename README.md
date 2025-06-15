@@ -13,6 +13,7 @@ Pack of info i know about PG3D modding.
 |----|-----|----|---------|
 |Pixel Server|Work In Progress|[Click](https://github.com/PixelArchives/PixelServer)|overmet15|
 |JBroLauncher Fix|Wont Finish/Not Working|[Click](https://github.com/PixelArchives/PG3D-JbroLauncher)|[JBro](https://github.com/jbro129), overmet15|
+|Pixel Gun Plus|Stable (Receiving updates)|[Click](https://pixelgun.plus)|[Nexizell](https://github.com/Nexizell), [sSAR](https://github.com/zUltimaPG3D), [Zweronz](https://github.com/zweronz)|
 
 
 ## Awesome Resources
