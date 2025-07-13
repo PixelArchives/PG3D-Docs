@@ -5,9 +5,9 @@ Pack of info i know about PG3D modding.
 
 |Version|State|Link|Author(s)|
 |-------|-----|----|---------|
-|2.5|Finished|[Click](https://github.com/PixelArchives/PG3D-2.5)|[overmet15](https://github.com/overmet15)|
-|2.7|Finished|[Click](https://github.com/PixelArchives/PG3D-2.7)|[overmet15](https://github.com/overmet15)|
-|2.8|Unfinished|[Click](https://github.com/PixelArchives/PG3D-2.8)|[overmet15](https://github.com/overmet15)|
+|2.5|[🟢] Finished|[Click](https://github.com/PixelArchives/PG3D-2.5)|[overmet15](https://github.com/overmet15)|
+|2.7|[🟢] Finished|[Click](https://github.com/PixelArchives/PG3D-2.7)|[overmet15](https://github.com/overmet15)|
+|2.8|[🟡] Unfinished|[Click](https://github.com/PixelArchives/PG3D-2.8)|[overmet15](https://github.com/overmet15)|
 
 #### Other Projects
 |Name|State|Link|Author(s)|
